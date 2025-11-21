@@ -24,7 +24,7 @@ author:
   bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
   location         : "Chengdu, Sichuan, China"
   employer         : "Sichuan University"
-  email            : "luotian@gmail.com"  # 修复邮箱格式：删除 [AT] [DOT]，直接写真实邮箱
+  email            : "luotian0125@gmail.com"  # 修复邮箱格式：删除 [AT] [DOT]，直接写真实邮箱
   # 学术平台链接（删除无效链接，补充真实信息）
   github           : "Ltier125"  # 保留你的 GitHub 用户名（唯一有效，删除下方重复的 github 字段）
   linkedin         : ""  # 如有 LinkedIn 账号，填写「用户名」（如 "tian-luo-123"），无需完整 URL
