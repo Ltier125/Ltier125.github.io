@@ -6,92 +6,92 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
-locale                   : "en-US"  # 英文站点，无需修改
-site_theme               : "default" # 主题风格，保持默认即可
-title                    : "ReitL (Tian Luo) | Academic Portfolio"  # 个性化标题，突出你的名字
+# Basic Site Settings (核心配置：确保域名和仓库正确)
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "ReitL (Tian Luo) | Academic Portfolio"
 title_separator          : "-"
-name                     : &name "ReitL (Tian Luo)"  # 与作者名保持一致
-description              : &description "Dual Degree Student in Math & AI at Sichuan University | Academic Portfolio"  # 精准描述，提升辨识度
-url                      : https://Ltier125.github.io  # 改为你的 GitHub Pages 地址（必须是「用户名.github.io」）
-baseurl                  : ""  # 子路径为空（根域名部署）
-repository               : "Ltier125/Ltier125.github.io"  # 改为你的仓库地址（用户名/仓库名），避免部署冲突
+name                     : &name "ReitL (Tian Luo)"
+description              : &description "Dual Degree Student in Math & AI at Sichuan University | Academic Portfolio"
+url                      : https://Ltier125.github.io  # 最终确认：你的个人域名，无结尾斜杠
+baseurl                  : ""  # 根域名部署，子路径为空
+repository               : "Ltier125/Ltier125.github.io"  # 你的仓库地址，确保部署权限适配
 
-# Site Author - 侧边栏作者信息配置（解决头像不显示、链接无效问题）
+# Site Author (头像路径+个人信息最终版)
 author:
-  avatar           : "./images/Pokemon.png"  # 关键修复：头像路径必须以「/」开头，指向 /images/ 目录下的文件
+  avatar           : "Pokemon.png"  # 仅保留文件名，模板自动拼接 /images/ 路径
   name             : "ReitL (Tian Luo)"
   bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
   location         : "Chengdu, Sichuan, China"
   employer         : "Sichuan University"
-  email            : "luotian0125@gmail.com"  # 修复邮箱格式：删除 [AT] [DOT]，直接写真实邮箱
-  # 学术平台链接（删除无效链接，补充真实信息）
-  github           : "Ltier125"  # 保留你的 GitHub 用户名（唯一有效，删除下方重复的 github 字段）
-  linkedin         : ""  # 如有 LinkedIn 账号，填写「用户名」（如 "tian-luo-123"），无需完整 URL
-  # Academic websites - 修复无效链接，无则留空
-  academia         : # 无则留空
-  arxiv            : # 无则留空
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # 确认是你的真实谷歌学术链接，无则删除
-  inspire-hep      : # 无则留空
-  impactstory      : # 无则留空
-  orcid            : "https://orcid.org/1234-5678-9101-1121"  # 修复：替换为你的 ORCID（格式为 16 位数字，带短横线），无则删除
-  semantic         : # 无则留空
-  pubmed           : # 删除 John Snow 的无效链接，如有自己的 Pubmed 链接再填写，无则留空
-  researchgate     : # 无则留空
-  scopus           : # 无则留空
+  email            : "luotian0125@gmail.com"  # 真实邮箱格式
+  # 学术平台链接（仅保留有效信息）
+  github           : "Ltier125"  # 你的GitHub用户名
+  linkedin         : ""  # 如有，填写用户名（如 "tian-luo-123"）
+  # Academic websites
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # 你的谷歌学术链接
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/1234-5678-9101-1121"  # 替换为你的真实ORCID（无则删除）
+  semantic         :
+  pubmed           :  # 已删除无效链接
+  researchgate     :
+  scopus           :
 
-  # Repositories and software development - 删除重复的 github 字段
-  bitbucket        : # 无则留空
-  codepen          : # 无则留空
-  dribbble         : # 无则留空
-  kaggle           : # 无则留空  
-  stackoverflow    : # 无则留空
+  # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  kaggle           :
+  stackoverflow    :
 
-  # Social media - 无则留空，避免无效图标显示
-  artstation       : # 无则留空
-  bluesky          : # 填写用户名（如 "reitl"），无需完整 URL
-  facebook         : # 无则留空
-  flickr           : # 无则留空
-  foursquare       : # 无则留空
-  goodreads        : # 无则留空
-  google_plus      : # 已停用，留空
-  keybase          : # 无则留空
-  instagram        : # 无则留空
-  lastfm           : # 无则留空
-  linkedin         : # 与上方重复，保留一处即可
-  mastodon         : # 无则留空
-  medium           : # 无则留空
-  pinterest        : # 无则留空
-  soundcloud       : # 无则留空
-  steam            : # 无则留空
-  telegram         : # 无则留空
-  tumblr           : # 无则留空
-  twitter          : # 无则留空
-  vine             : # 已停用，留空
-  weibo            : # 如有，填写用户名（如 "ReitL"）
-  wikipedia        : # 无则留空
-  xing             : # 无则留空
-  youtube          : # 无则留空
-  zhihu            : # 如有，填写用户名（如 "reitl-12"）
+  # Social media (无则留空，避免无效图标)
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :  # 重复字段，保留一处即可
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
 
-# Publication Category - 出版物分类（可按需调整）
+# Publication Category (出版物分类，按需调整)
 publication_category:
   books:
-    title: 'Books'  # 书籍类（无则留空）
+    title: 'Books'
   manuscripts:
-    title: 'Preprints'  # 建议修改：manuscripts 通常指「预印本」，期刊论文用「Journal Articles」
+    title: 'Preprints'
   conferences:
-    title: 'Conference Papers'  # 会议论文（无则留空）
+    title: 'Conference Papers'
 
-# Site Settings
-teaser                   : "/images/teaser-default.png"  # 补充：社交分享默认缩略图（放在 /images/ 目录，无则留空）
-breadcrumbs              : false  # 关闭面包屑导航（简化界面）
-words_per_minute         : 160  # 阅读速度估算，无需修改
-future                   : true  # 允许发布未来日期的内容
-read_more                : "disabled"  # 禁用「Read more」链接（学术站点无需）
-talkmap_link             : false  # 关闭演讲地图链接（无演讲经历则禁用）
+# Site Settings (优化后配置)
+teaser                   : "teaser-default.png"  # 模板自动拼接 /images/，仅填文件名
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider               : # 禁用评论功能（学术站点通常无需）
+  provider               :  # 禁用评论
   disqus:
     shortname            :
   discourse:
@@ -102,7 +102,7 @@ comments:
     colorscheme          :
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "main"  # 改为 main 分支（GitHub 默认分支）
+  branch                 : "main"  # 适配默认分支
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -117,39 +117,38 @@ staticman:
       options:
         format           : "iso8601"
 atom_feed:
-  hide                   : false  # 显示 RSS 订阅（可选）
-  path                   : # 默认为 feed.xml
+  hide                   : false
+  path                   :
 
-# SEO Related - 搜索引擎验证（无则留空）
+# SEO Related (无则留空)
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing - 社交分享配置
+# Social Sharing (适配 url 自动拼接)
 twitter:
-  username               : &twitter  # 无则留空
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/Pokemon.png"  # 社交分享默认图片（用头像即可）
-og_description           : *description  # 复用站点描述
-# Social Profiles - 谷歌结构化数据（提升搜索展示）
+og_image                 : "Pokemon.png"  # 社交分享图，模板自动拼接 /images/
+og_description           : *description
 social:
-  type                   : "Person"  # 类型为「个人」
-  name                   : *name  # 复用作者名
-  links: # 补充你的社交/学术链接（数组格式）
+  type                   : "Person"
+  name                   : *name
+  links:
     - "https://github.com/Ltier125"
     - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 
-# Analytics - 禁用统计（简化配置，如需可后续添加）
+# Analytics (禁用统计，简化配置)
 analytics:
   provider               : "false"
   google:
     tracking_id          :
 
-# Reading Files - 无需修改（模板默认配置）
+# Reading Files (模板默认配置，无需修改)
 include:
   - .htaccess
   - _pages
@@ -187,14 +186,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion - 无需修改（模板默认配置）
+# Conversion (模板默认配置，无需修改)
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Markdown Processing - 无需修改（模板默认配置）
+# Markdown Processing (模板默认配置，无需修改)
 kramdown:
   input: GFM
   hard_wrap: false
@@ -205,7 +204,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections - 内容集合（学术站点核心，无需修改）
+# Collections (学术站点核心，无需修改)
 collections:
   teaching:
     output: true
@@ -220,9 +219,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults - 页面默认配置（修复 portfolio 评论字段拼写错误）
+# Defaults (修复拼写错误，优化默认配置)
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -233,14 +231,12 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -249,7 +245,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
   - scope:
       path: ""
       type: publications
@@ -258,7 +253,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio - 修复拼写错误：comment → comments
   - scope:
       path: ""
       type: portfolio
@@ -266,8 +260,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true  # 原「comment: true」拼写错误，导致评论功能异常
-  # _talks
+      comments: true  # 修复拼写错误
   - scope:
       path: ""
       type: talks
@@ -276,16 +269,16 @@ defaults:
       author_profile: true
       share: true
 
-# Sass/SCSS - 无需修改（压缩样式，提升加载速度）
+# Sass/SCSS (无需修改)
 sass:
   sass_dir: _sass
   style: compressed
 
-# Outputting - 修复时区（改为成都时区）
+# Outputting (优化时区)
 permalink: /:categories/:title/
-timezone: Asia/Shanghai  # 关键修复：原「Etc/UTC」改为「Asia/Shanghai」，时间显示准确
+timezone: Asia/Shanghai  # 成都时区，时间显示准确
 
-# Plugins - 保留核心插件（适配 GitHub Pages）
+# Plugins (适配 GitHub Pages，保留核心插件)
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -294,7 +287,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe - 无需修改
+# Mimic GitHub Pages with --safe (无需修改)
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -303,7 +296,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
-# Archives - 分类/标签归档（无需修改）
+# Archives (无需修改)
 category_archive:
   type: liquid
   path: /categories/
@@ -311,7 +304,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# HTML Compression - 保持默认（开发环境不压缩，生产环境压缩）
+# HTML Compression (无需修改)
 compress_html:
   clippings: all
   ignore:
