@@ -22,16 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  avatar           : "Pokemen.png"  # 建议将头像图片命名为profile.png放在images目录
+  name             : "ReitL (Tian Luo)"
+  bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
+  location         : "Chengdu, Sichuan, China"
+  employer         : "Sichuan University"
+  email            : "luotian[AT]gmail[DOT]com"  # 替换为你的邮箱
+  # 学术平台链接（如有可补充，如GitHub、LinkedIn等）
+  github           : "Ltier125"  # 你的GitHub用户名
+  linkedin         : ""  # 你的LinkedIn链接
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
