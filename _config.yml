@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "Pokemen.png"  # 建议将头像图片命名为profile.png放在images目录
+  avatar           : "Pokemon.png"  # 建议将头像图片命名为profile.png放在images目录
   name             : "ReitL (Tian Luo)"
   bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
   location         : "Chengdu, Sichuan, China"
