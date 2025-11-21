@@ -19,7 +19,7 @@ repository               : "Ltier125/Ltier125.github.io"  # 改为你的仓库�
 
 # Site Author - 侧边栏作者信息配置（解决头像不显示、链接无效问题）
 author:
-  avatar           : "/images/Pokemon.png"  # 关键修复：头像路径必须以「/」开头，指向 /images/ 目录下的文件
+  avatar           : "images/Pokemon.png"  # 关键修复：头像路径必须以「/」开头，指向 /images/ 目录下的文件
   name             : "ReitL (Tian Luo)"
   bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
   location         : "Chengdu, Sichuan, China"
