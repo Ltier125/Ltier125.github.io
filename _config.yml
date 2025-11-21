@@ -19,7 +19,7 @@ repository               : "Ltier125/Ltier125.github.io"  # 你的仓库地址�
 
 # Site Author (头像路径+个人信息最终版)
 author:
-  avatar           : "Pokemon.png"  # 仅保留文件名，模板自动拼接 /images/ 路径
+  avatar           : "https://Ltier125.github.io/images/Pokemon.png" 
   name             : "ReitL (Tian Luo)"
   bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
   location         : "Chengdu, Sichuan, China"
