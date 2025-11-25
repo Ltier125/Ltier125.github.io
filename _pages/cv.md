@@ -11,40 +11,42 @@ redirect_from:
 
 Education
 ======
-*   **B.S. in Mathematics & Applied Mathematics and Artificial Intelligence (Dual Degree)**
-    *   Sichuan University, Chengdu, China
-    *   *Sep. 2024 - Jun. 2028 (Expected)*
-    *   **Selected Coursework (Mathematics):** Mathematical Analysis, Advanced Algebra, ODEs, PDEs, Real Analysis, Complex Analysis, Functional Analysis, Numerical Solutions of Differential Equations.
-    *   **Selected Coursework (CS & AI):** Data Structures, Algorithms, C++, Machine Learning Fundamentals, Introduction to AI, Computer Vision.
+- **Sichuan University**, Chengdu, China  
+  *B.S. in Mathematics & Applied Mathematics and Artificial Intelligence (Dual Degree), Sep. 2024 – Jun. 2028 (expected)*  
+
+  **Selected coursework**  
+  - Mathematics: Mathematical Analysis; Advanced Algebra; Ordinary Differential Equations; Partial Differential Equations; Real Analysis; Complex Analysis; Functional Analysis; Numerical Solutions of Differential Equations.  
+  - Computer Science & AI: Data Structures; Algorithms; C++; Machine Learning Fundamentals; Introduction to Artificial Intelligence; Computer Vision.
 
 Academic Highlights
 ======
-*   **Interdisciplinary Background:** Established a rigorous academic foundation by completing full professional curricula of both the School of Mathematics and the School of Computer Science.
-*   **Top Ranking:** Ranked **1st/27** in the program (Comprehensive Evaluation) and maintained top 2 rank throughout the academic year.
-*   **Mathematics Excellence:** Ranked in the **top 5%** of the School of Mathematics; developed strong capabilities in pure mathematics and mathematical modeling.
-*   **CS Performance:** Achieved an average score of over 90 in core computer science modules.
+- Interdisciplinary training across both the School of Mathematics and the School of Computer Science, completing the full professional curricula of both programs.
+- Consistently ranked at the **top2** of the Mathematics and Intelligent Technology program, including **1st** place in comprehensive evaluation for the first academic year.
+- Strong background in pure and applied mathematics, with particular strengths in analysis, linear algebra, differential equations, and mathematical modeling.
+- Solid performance in core computer science modules, comparable to the top students in the cohort.
 
 Awards & Honors
 ======
-*   **National Scholarship** (Highest honor for undergraduates in China), Ministry of Education, 2025
-*   **Comprehensive First-Class Scholarship**, Sichuan University, 2025
+- National Scholarship, Ministry of Education of China, 2025  
+- Comprehensive First-Class Scholarship, Sichuan University, 2025  
 
 Academic Standing
 ======
-*   **GPA Rank:** 2/27
-*   **Comprehensive Evaluation Rank:** 1/27
-*   **Overall GPA:** 3.8/4.0
+| Overall GPA | GPA rank | Comprehensive evaluation rank |
+|:-----------:|:--------:|:-----------------------------:|
+| 3.8 / 4.0   | 2 / 27   | 1 / 27                        |
 
 Skills
 ======
-*   **Programming Languages:**
-    *   **Python** (Experienced with **PyTorch** and **TensorFlow** for deep learning)
-    *   **C++**
-    *   **MATLAB**
-*   **Core Competencies:**
-    *   **Solid Mathematical Foundation:** Strong ability in abstract analysis, linear algebra, and optimization theory.
-    *   **Self‑Motivated and Research‑Oriented:** Highly self‑driven, with a strong exploratory mindset and genuine enthusiasm for scientific research.
+### Programming
+- Python – experienced with PyTorch and TensorFlow for deep learning  
+- C++  
+- MATLAB  
 
-*   **Languages:**
-    *   English (Fluent)
-    *   Mandarin (Native)
+### Core competencies
+- Solid mathematical foundation in abstract analysis, linear algebra, optimization, and differential equations.  
+- Self‑motivated and research‑oriented; strong exploratory mindset and genuine enthusiasm for scientific research.
+
+### Languages
+- English – fluent  
+- Mandarin – native
