@@ -7,29 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+I am **ReitL (Tian Luo)**, an undergraduate student (Class of 2028) pursuing a Dual Degree in **Mathematics & Applied Mathematics** and **Artificial Intelligence** at Sichuan University.
 
-I am ReitL (Tian Luo), a 2024 undergraduate student pursuing a dual degree in **Mathematics & Applied Mathematics** and **Artificial Intelligence** at Sichuan University.
-
-I possess a **solid mathematical foundation**, **highly self-motivated** mindset, **spirit of exploration**, and a genuine **passion for scientific research**.
+My academic journey is driven by a solid mathematical foundation, a highly self-motivated mindset, and a genuine passion for scientific research. I am particularly interested in the intersection of mathematical modeling and AI algorithms.
 
 # Academic Achievements
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 200px;">
-    <strong>GPA:</strong> 3.8 / 4.0
-  </div>
-  <div style="flex: 1; min-width: 200px;">
-    <strong>Academic Rank:</strong> 2 / 27
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <strong>Comprehensive Rank:</strong> 1 / 27
-  </div>
-</div>
+| Overall GPA | Academic Rank | Comprehensive Rank |
+| :---: | :---: | :---: |
+| **3.8 / 4.0** | **2 / 27** | **1 / 27** |
 
-*   **National Scholarship** (2025)    *   *Highest honor for undergraduates in China, awarded by the Ministry of Education.*
+*   **National Scholarship**, Ministry of Education (2025)
+    *   *Highest honor for undergraduates in China (Top 0.2%).*
 *   **Comprehensive First-Class Scholarship**, Sichuan University (2025)
 
-### Contact
-- Location: Chengdu, Sichuan, China
-- Email: [Luotian0125[AT]gmail[DOT]com](mailto:Luotian0125[AT]gmail[DOT]com)
+# Contact
+
+*   **Location:** Chengdu, Sichuan, China
+*   **Email:** [Luotian0125[AT]gmail[DOT]com](mailto:Luotian0125@gmail.com)
