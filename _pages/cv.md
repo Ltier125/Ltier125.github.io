@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -65,4 +64,3 @@ Skills
   - Machine Learning Fundamentals
   - Mathematical Modeling
   - Data Processing & Visualization
-```
