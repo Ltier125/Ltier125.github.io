@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Dual B.S. in Mathematics & Applied Mathematics and Artificial Intelligence, Sichuan University, 2024 - Present (Expected 2028)
-  * **Mathematics Core Courses**: Advanced Algebra, Mathematical Analysis, Ordinary Differential Equations, Partial Differential Equations, Real Analysis, Complex Analysis, Functional Analysis, Numerical Solutions of Differential Equations
+  * **Mathematics Core Courses**: Linear Algebra, Mathematical Analysis, Ordinary Differential Equations, Partial Differential Equations, Real Analysis, Complex Analysis, Functional Analysis, Numerical Solutions of Differential Equations
   * **Computer Science Core Courses**: Introduction to Artificial Intelligence, Machine Learning Fundamentals, Data Structures, Algorithms, Programming Foundations, Computer Vision (Intro)
 
 Academic Highlights
