@@ -18,28 +18,40 @@ baseurl                  : ""  # 根域名部署，子路径为空
 repository               : "Ltier125/Ltier125.github.io"  # 你的仓库地址，确保部署权限适配
 
 # Site Author (头像路径+个人信息最终版)
+#author:
+#  avatar           : "https://Ltier125.github.io/images/Pokemon.png" 
+#  name             : "ReitL (Tian Luo)"
+#  bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
+#  location         : "Chengdu, Sichuan, China"
+#  employer         : "Sichuan University"
+#  email            : "luotian0125@gmail.com"  # 真实邮箱格式
+  # 学术平台链接（仅保留有效信息）
+#  github           : "Ltier125"  # 你的GitHub用户名
+#  linkedin         : ""  # 如有，填写用户名（如 "tian-luo-123"）
+#  # Academic websites
+#  academia         :
+#  arxiv            :
+#  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # 你的谷歌学术链接
+#  inspire-hep      :
+#  impactstory      :
+# orcid            : "https://orcid.org/1234-5678-9101-1121"  # 替换为你的真实ORCID（无则删除）
+# semantic         :
+#  pubmed           :  # 已删除无效链接
+#  researchgate     :
+#  scopus           :
+# Site Author
 author:
   avatar           : "https://Ltier125.github.io/images/Pokemon.png" 
   name             : "ReitL (Tian Luo)"
-  bio              : "Dual Degree Student in Mathematics & Applied Mathematics and Artificial Intelligence | Sichuan University"
+  # 优化排版：使用简写 + <br>换行，加粗专业名称，视觉更清晰
+  bio              : "Dual Degree Student in<br><b>Math & AI</b>"
   location         : "Chengdu, Sichuan, China"
+  # 将大学单独放在这里，模板会自动分行显示
   employer         : "Sichuan University"
-  email            : "luotian0125@gmail.com"  # 真实邮箱格式
-  # 学术平台链接（仅保留有效信息）
-  github           : "Ltier125"  # 你的GitHub用户名
-  linkedin         : ""  # 如有，填写用户名（如 "tian-luo-123"）
-  # Academic websites
-  academia         :
-  arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # 你的谷歌学术链接
-  inspire-hep      :
-  impactstory      :
-  orcid            : "https://orcid.org/1234-5678-9101-1121"  # 替换为你的真实ORCID（无则删除）
-  semantic         :
-  pubmed           :  # 已删除无效链接
-  researchgate     :
-  scopus           :
-
+  email            : "luotian0125@gmail.com"
+  github           : "Ltier125"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid            : "https://orcid.org/1234-5678-9101-1121"
   # Repositories and software development
   bitbucket        :
   codepen          :
