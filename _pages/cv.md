@@ -66,10 +66,3 @@ Skills
   - Mathematical Modeling
   - Data Processing & Visualization
 ```
-
-修改说明：
-1. **Education部分**：补充学校地点、明确「Duration」标签，将课程拆分为子列表，提升可读性；
-2. **Academic Highlights**：改为分点表述，强化逻辑，同时优化措辞更贴合学术语境；
-3. **Awards & Honors**：补充颁奖单位（如国家奖学金的颁奖主体），让荣誉更正式；
-4. **Academic Standing**：增加排名的百分比标注，直观体现排名优势；
-5. **Skills部分**：拆分技能为子分类+子列表，细化技能描述（如Python的应用场景），让技能项更具体。
