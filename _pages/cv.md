@@ -32,6 +32,7 @@ Awards & Honors
 
 Academic Standing
 ======
+
 | Overall GPA | GPA rank | Comprehensive evaluation rank |
 |:-----------:|:--------:|:-----------------------------:|
 | 3.8 / 4.0   | 2 / 27   | 1 / 27                        |
