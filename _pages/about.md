@@ -18,7 +18,6 @@ My academic journey is driven by a solid mathematical foundation, a highly self-
 | **3.8 / 4.0** | **2 / 27** | **1 / 27** |
 
 *   **National Scholarship**, Ministry of Education (2025)
-    *   *Highest honor for undergraduates in China (Top 0.2%).*
 *   **Comprehensive First-Class Scholarship**, Sichuan University (2025)
 
 # Contact
