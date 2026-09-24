@@ -27,7 +27,7 @@ Academic Highlights
 
 Awards & Honors
 ======
-- National Scholarship, Ministry of Education of China, 2025  
+- National Scholarship, Ministry of Education of China, 2025，2026  
 - Comprehensive First-Class Scholarship, Sichuan University, 2025  
 
 Academic Standing
@@ -35,7 +35,7 @@ Academic Standing
 
 | Overall GPA | GPA rank | Comprehensive evaluation rank |
 | ----------- | -------- | ---------------------------- |
-| 3.8 / 4.0   | 2 / 27   | 1 / 27                       |
+| 3.8 / 4.0   | 1 / 27   | 1 / 27                       |
 
 Skills
 ======
