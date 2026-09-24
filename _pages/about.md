@@ -15,9 +15,9 @@ My academic journey is driven by a solid mathematical foundation, a highly self-
 
 | Overall GPA | Academic Rank | Comprehensive Rank |
 | :---: | :---: | :---: |
-| **3.8 / 4.0** | **2 / 27** | **1 / 27** |
+| **3.8 / 4.0** | **1 / 27** | **1 / 27** |
 
-*   **National Scholarship**, Ministry of Education (2025)
+*   **National Scholarship**, Ministry of Education (2025，2026)
 *   **Comprehensive First-Class Scholarship**, Sichuan University (2025)
 
 # Contact
